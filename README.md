@@ -14,13 +14,15 @@ A semi-supervised text classification model combining BERT with GANs.
   - Multiple dataset support (sentiment, letters, news)
 
 ### 2. Project Structure 
-├── GAN-BERT-Classifier-main/ # Main implementation of GAN-BERT
-│ ├── data/ # Dataset directory
-│ ├── results/ # Results directory
-│ ├── ganbert.py # Core model implementation
-│ ├── main.py # Training script
-│ └── BERT_Text_Classification.ipynb # Example notebook
-└── README.md # This file
+```
+├── GAN-BERT-Classifier-main/    # Main implementation of GAN-BERT
+│   ├── data/                    # Dataset directory
+│   ├── results/                 # Results directory
+│   ├── ganbert.py              # Core model implementation
+│   ├── main.py                 # Training script
+│   └── BERT_Text_Classification.ipynb  # Example notebook
+└── README.md                    # This file
+```
 
 ## Getting Started
 The project folder contains its own README with specific setup and usage instructions. Start with:
